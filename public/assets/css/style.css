@@ -1,0 +1,15 @@
+#basicExample_wrapper {
+    padding: 25px;
+}
+
+#navigation i.fas {
+	font-size: 13px;
+	color: #00b3ff;
+}
+
+.navbar-vertical.navbar-expand-xs .navbar-collapse{
+	height: auto!important;
+}
+.navbar-vertical .navbar-nav>.nav-item .nav-link.active .icon img{
+	filter: invert(1);
+}
